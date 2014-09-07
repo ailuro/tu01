@@ -15,7 +15,7 @@ Features:
 
 Permissions:
 
-    You MAY edit/build upon/etc. this theme in any way as long as you provide credit back to me.
-    You MAY use this code to create a project of your own as long as you provide credit back to me.
-    You may NOT steal this theme and claim it as your own.
-    You may NOT remove credit in any way. This includes the URL back to its Github repository as it is there to provide access to the MIT license.
+*You MAY edit/build upon/etc. this theme in any way as long as you provide credit back to me.
+*You MAY use this code to create a project of your own as long as you provide credit back to me.
+*You may NOT steal this theme and claim it as your own.
+*You may NOT remove credit in any way. This includes the URL back to its Github repository as it is there to provide access to the MIT license.
